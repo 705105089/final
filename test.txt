@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaaaaaaaaa
+=======
+aaaaaaaaaaaaaaaaaaaaaaa
+bbb
+ccccccc
+>>>>>>> ae15113 (feature 3)
